@@ -73,13 +73,14 @@ body {
 }
 .first-name {
     margin-top: 175px;
-    color: #fff;
+    color: #EB7070;
     font-size: 300%;
 }
 .last-name { 
     color: #fff;
     font-weight: 300;
     padding: 0px 10px;
+    color: #EB7070;
 }
 .sec-header {
     padding-top: 50px;

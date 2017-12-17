@@ -79,7 +79,6 @@ body {
 .last-name { 
     color: #fff;
     font-weight: 300;
-    background-color: #2196f3;
     padding: 0px 10px;
 }
 .sec-header {
@@ -117,7 +116,7 @@ body {
     perspective: 700px;
     -webkit-perspective: 700px;
 }
-.card h4{
+.card h3{
     margin: 0;
     color: #fff;
 }
@@ -142,12 +141,12 @@ body {
 }
 
 .front {
-    background: #1C86EE;
+    background: #708BC8;
     padding: 0.1%;
 }
 
 .back {
-    background: #6495ED;
+    background: #8EA9E6;
     transform: rotateY(180deg);
 }
 
